@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         
         print(boð)
         print("Eg havi koyrt eitt label á skermin")
+        print("BROYTING")
         print(reverse(text: "stressed"))
         
     }
